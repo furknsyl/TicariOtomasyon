@@ -1,1 +1,1 @@
-C# ile Devexpress'de SQL Tabanlı Ticari Otomasyon Projesi 
+C# ile Devexpress'de SQL Tabanlı Ticari Otomasyon Projesi
